@@ -1,0 +1,20 @@
+.Dope{
+    text-align: center;
+    background-color: #ccc;
+}
+.Dope h1 {
+    flex: 4;
+    margin-top: 10px;
+}
+.Dope img{
+    height: 500px;
+    width: 600px;
+}
+.label {
+    font-weight: bold;
+    display: block;
+    background-color: wheat;
+    padding: 6px 10px;
+    border: 2px solid #ccc;
+    margin: auto;
+}

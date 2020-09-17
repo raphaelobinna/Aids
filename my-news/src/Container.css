@@ -1,0 +1,42 @@
+.head{
+    flex: 4;
+    margin-top: 10px;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 2em;
+    background-color: white;
+    height: 60px;
+    position: relative;
+    width: 100%;
+    box-shadow:0 2px 0 0 black;
+}
+
+.nav{
+    flex: 3;
+    margin-top: 20px;
+}
+
+.nav-item{
+    display: inline;
+    justify-content: space-between;
+}
+.nav-item a{
+    color: black;
+}
+.nav-item a:hover,
+.nav-item a:active{
+    color: chartreuse;
+}
+
+.list-item{
+    margin-right: 19px;
+    font-size: 19px;
+    text-decoration: none;
+    font-weight: 700;
+    padding: 3px 5px;
+    color: black;
+
+}

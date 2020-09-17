@@ -1,0 +1,57 @@
+.mat {
+    background-color: rgb(146, 62, 62);
+}
+
+.dave {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 8px;
+}
+
+.input {
+    outline: none;
+    border: 1px solid #ccc;
+    background-color: white;
+    font: inherit;
+    width: 100%;
+    padding: 6px 10px;
+}
+
+.input:focus {
+    outline: none;
+    background-color: #ccc;
+}
+.form {
+    outline: none;
+    border: 5px solid #ccc;
+    width: 300px;
+    text-align: center;
+    box-sizing: border-box;
+    background-color: blanchedalmond;
+    border-radius: 20px;
+    margin: 20px auto;
+    
+    }
+    .Button {
+        background-color: greenyellow;
+        border: none;
+        color: black;
+        outline: none;
+        cursor: pointer;
+        font: inherit;
+        padding: 10px;
+        font-weight: bold;
+    }
+.bat {
+    background-color: transparent;
+    height: 5px;
+    width: 5px;
+    border: 2px solid;
+    margin: auto;
+}
